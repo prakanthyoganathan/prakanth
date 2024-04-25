@@ -4,6 +4,8 @@
 
 <p align="left">My name is Prakanth and I’m currently working in HclTech as a Senior Engineer</p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ###
 
 <h2 align="left">About me</h2>
